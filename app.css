@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "Patrick Hand";
+  src: url('fonts/patrickhand.ttf')
+       format('truetype');
+}
+
+html, body, div {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: 32px;
+  width: 30em;
+  margin: 0 auto;
+
+  line-height: 1.6em;
+  letter-spacing: 2px;
+  font-family: "Patrick Hand", serif;
+  text-align: center;
+}
+
+h1 { letter-spacing: 5px; }
+p { text-align: left; }
+a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.colorset1 {
+  color: white;
+  background-color: black;
+}
+.colorset2 {
+  color: khaki;
+  background-color: darkmagenta;
+}
+.colorset3 {
+  color: gold;
+  background-color: firebrick;
+}
+.colorset4 {
+  color: seashell;
+  background-color: royalblue;
+}
+.colorset5 {
+  color: whitesmoke;
+  background-color: slategrey;
+}
+.colorset6 {
+  color: indigo;
+  background-color: lightcoral;
+}
+.colorset7 {
+  color: teal;
+  background-color: lightblue;
+}
+.colorset8 {
+  color: blue;
+  background-color: orange;
+}
+.colorset9 {
+  color: steelblue;
+  background-color: snow;
+}
+.colorset0 {
+  color: black;
+  background-color: white;
+}
